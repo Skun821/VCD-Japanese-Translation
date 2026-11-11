@@ -1,6 +1,7 @@
 # Viscera Cleanup Detail 日本語化 / Japanese Translation
 
 Steam版 Viscera Cleanup Detail を日本語で遊べるようにするインストーラーです。
+
 本編、Santa's Rampage、Shadow Warrior のメニュー、メモ、PDA、新聞、パンチアウトの書類などを翻訳しています。
 
 ## ダウンロード
