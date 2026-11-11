@@ -14,7 +14,6 @@ Nexus Modsでも公開しています：https://www.nexusmods.com/visceracleanup
 4. 「日本語を導入」を押し、Windowsの確認で「はい」を選びます。
 5. 完了したら「コピー」を押し、Steamライブラリで Viscera Cleanup Detail を右クリック →「プロパティ」→「一般」→「起動オプション」に `-language=JPN` を貼り付けます。
 
-- 以前の日本語化が入っていても、すべて上書きされます。
 - 元のファイルはゲームフォルダー内の `VCD_JPN_Backup\Original` に保存されます。
 - 英語版に戻すときは、もう一度起動して「日本語を解除」を押し、起動オプションの `-language=JPN` を削除してください。
 
