@@ -22,7 +22,7 @@ Nexus Modsでも公開しています：https://www.nexusmods.com/visceracleanup
 - 有料DLC「House of Horror」「The Vulcan Affair」と、ポスター・看板など画像に描かれた文字は英語のままです。
 - 未署名のツールのため、Windows SmartScreen が警告を出すことがあります（「詳細情報」→「実行」で起動できます）。
 - 日本語の文字は Noto Sans CJK（SIL Open Font License 1.1）から作成しています。
-- 翻訳作業の補助、ツールの作成、改行調整に AI（OpenAI Codex、Anthropic Claude）を使用しています。
+- MOD制作の一部にAI（OpenAI Codex、Anthropic Claude）を使用しています。
 
 ## Installer source (English)
 
