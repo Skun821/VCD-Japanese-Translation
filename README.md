@@ -1,4 +1,4 @@
-# Viscera Cleanup Detail 日本語化パッチ
+# Viscera Cleanup Detail 日本語化パッチ | Japanese Translation
 
 Steam版 Viscera Cleanup Detail を日本語で遊べるようにするインストーラーです。
 
